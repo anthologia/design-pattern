@@ -12,4 +12,8 @@ public class Settings implements Serializable {
     public static synchronized Settings getInstance() {
         return SettingsHolder.INSTANCE;
     }
+
+    protected Object readResolve() {
+        return getInstance();
+    }
 }
