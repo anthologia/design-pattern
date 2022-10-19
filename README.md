@@ -5,7 +5,7 @@
 ## 🪄 객체 생성 관련 디자인 패턴
 ### [싱글톤 패턴](https://github.com/anthologia/design-pattern/tree/master/src/main/java/GoF/_01_creational_patterns/_01_singleton) - [TDD](https://github.com/anthologia/design-pattern/tree/master/src/test/java/GoF/_01_creational_patterns/_01_singleton)
 ### [팩토리 메서드 패턴](https://github.com/anthologia/design-pattern/tree/master/src/main/java/GoF/_01_creational_patterns/_02_factory_method) - [TDD](https://github.com/anthologia/design-pattern/tree/master/src/test/java/GoF/_01_creational_patterns/_02_factory_method)
-### 추상 팩토리 패턴
+### [추상 팩토리 패턴](https://github.com/anthologia/design-pattern/tree/master/src/main/java/GoF/_01_creational_patterns/_03_abstract_factory) - [TDD](https://github.com/anthologia/design-pattern/tree/master/src/test/java/GoF/_01_creational_patterns/_03_abstract_factory)
 ### 빌더 패턴
 ### 프로토타입 패턴
 
